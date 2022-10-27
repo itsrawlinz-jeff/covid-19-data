@@ -19,7 +19,7 @@ jdcal==1.4.1
 jedi==0.16.0
 lxml==4.6.2
 multidict==4.7.6
-numpy==1.19.5
+numpy==1.22.0
 opencv-python==4.5.1.48
 openpyxl==3.0.3
 pandas==1.2.1
